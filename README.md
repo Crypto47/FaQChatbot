@@ -4,7 +4,7 @@
 PIEAS FAQChatbot is a state-of-the-art question-answering chatbot designed to address queries related to admissions at PIEAS University. It is developed on top of GPT-3.5 Turbo, fine-tuned with metic!
 ulously collected and prepared data specific to the admissions process at PIEAS. The frontend UI is crafted using React Js, while the backend is powered by Node Js, with Axios facilitating seamless API integration.
 
-[Screenshot 2024-03-21 012736](https://github.com/Crypto47/FaQChatbot/assets/61820693/81b0846b-b08f-487b-a7d8-bb91316e576d)
+[Screenshot 2024-03-21 012736] (https://github.com/Crypto47/FaQChatbot/assets/61820693/81b0846b-b08f-487b-a7d8-bb91316e576d)
 
 ## Features
 
@@ -24,10 +24,12 @@ ulously collected and prepared data specific to the admissions process at PIEAS.
 To get started with PIEAS FAQChatbot, follow these steps:
 
 1. **Clone the Repository**:
-git clone https://github.com/Crypto47/FaQChatbot.git
+```git clone https://github.com/Crypto47/FaQChatbot.git```
 2.  **Install Dependencies**:
+```
 cd FaQChatbot
 npm install
+```
 4.  **Start the Development Servers**:
 - Frontend: 
   ```
