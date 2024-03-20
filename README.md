@@ -5,11 +5,10 @@
 PIEAS FAQChatbot
 PIEAS FAQChatbot is a cutting-edge chatbot developed on top of GPT-3.5 Turbo, fine-tuned with meticulously collected and prepared data specifically tailored for the project. This repository contains the source code for both the frontend and backend components of the chatbot.
 
-[Screenshot 2024-03-21 012736] (https://github.com/Crypto47/FaQChatbot/assets/61820693/81b0846b-b08f-487b-a7d8-bb91316e576d)
 
-## Features
+![faqbot](https://github.com/Crypto47/FaQChatbot/assets/61820693/54c10cae-293c-4775-b14f-8ab4832092bf)
 
-- **Advanced QA Chatbot
+
 
 
 ## Features
