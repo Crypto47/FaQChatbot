@@ -59,4 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- My colleagues Ahmad Naseer and Rafay Satti for their invaluable assistance in data cleaning, formatting, and dataset preparation.
+- I am grateful to my seniors, Shajee and Fatima, for graciously providing the dataset, and to my colleagues, Ahmad Naseer and Rafay Satti, for their meticulous data cleaning and preparation efforts for training.
