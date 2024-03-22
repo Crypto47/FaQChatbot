@@ -59,5 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Developers of the natural language processing algorithms used in FaQChatbot.
-- Contributors who have contributed to the enhancement of FaQChatbot.
+- My colleagues Ahmad Naseer and Rafay Satti for their invaluable assistance in data cleaning, formatting, and dataset preparation.
